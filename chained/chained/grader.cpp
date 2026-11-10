@@ -22,7 +22,7 @@ and takes O(N) extra space
 
 
 
-#include "chained.h"
+#include "blind_shuffle.h"
 #include <vector>
 #include <cassert>
 #include <iostream>
